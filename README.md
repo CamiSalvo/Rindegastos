@@ -70,6 +70,12 @@ module.exports = {
 Para ejecutar las pruebas automatizadas, usa el siguiente comando:
 
 ```bash
+Setear las variables usuario y contraseña
+Linea  43 para usuario : await loginPage.enterEmail('example@example.cl');
+Linea  60 para contraseña: await loginPage.enterPassword('password');
+```
+
+```bash
 npm test
 ```
 
