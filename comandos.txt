@@ -1,0 +1,10 @@
+Temario de comandos 
+
+1. npm init -y     (inicializa un proyecto con node en vacio )
+
+2. npm install selenium-webdriver chromedriver (instalo las librias necesarias en este caso selenium )
+
+3. touch config/config.js creo un archivo de configuracion para selenium 
+
+4. npm install --save-dev jest instalacion de jest para la ejecucion de las pruebas
+
